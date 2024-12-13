@@ -83,7 +83,7 @@ module.exports = function customMenu(app, win) {
                 },
                 {
                     label: 'Open source',
-                    click: () => { shell.openExternal('https://github.com/ylorde/movie-organizer') },
+                    click: () => { shell.openExternal('https://github.com/ylorde/v-shelf') },
                 },
                 {
                     label: 'Abrir API',
