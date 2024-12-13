@@ -1,0 +1,13 @@
+{
+  "name": "v-shelf",
+  "version": "1.0.0",
+  "description": "virtual shelf",
+  "author": "ylorde (discord)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^12.0.0"
+  }
+}
